@@ -26,7 +26,7 @@ tagline: internet | education | communicate   # it will display as the sub-title
 description:    intercate         # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://harl00.github.io/intercate/'
 
 github:
   username: harl00             # change to your github username
